@@ -8,7 +8,7 @@
 
 ---
 
-Welcome to the README for **My App**! This document provides an overview of the app's implementation details, including navigation, database structure, menu bar functionalities, accessibility features, and espresso tests.
+Welcome to the README for the **Journal App**. This document provides an overview of the app's implementation details, including navigation, database structure, menu bar functionalities, accessibility features, and espresso tests.
 
 ## Actions in the Navgraph:
 
